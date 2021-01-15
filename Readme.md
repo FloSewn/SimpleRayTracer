@@ -5,4 +5,4 @@ https://raytracing.github.io/books/RayTracingInOneWeekend.html
 
 # Current state
 Chapter 12: Defocus Blur
-<img src="images/CurrentState.ppm" alt="Current-State" width="400"/>
+<img src="images/CurrentState.png" alt="Current-State" width="400"/>
